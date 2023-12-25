@@ -35,9 +35,9 @@ const Services = () => {
       animate={isInView && "animate"}
     >
       <motion.div className="textContainer" variants={variants}>
-        <p>
-          I focus on helping your brand grow
-          <br /> and move forward
+      <p>
+          I AM A JAVASCRIPT
+          <br /> WEB N APP DEVELOPER.
         </p>
         <hr />
       </motion.div>
